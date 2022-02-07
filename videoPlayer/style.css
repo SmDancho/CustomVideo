@@ -63,7 +63,7 @@ a:hover {
     transform: translateY(-50%); 
     width: 150px;
     height: 150px;
-    background:url('/assets/svg/play-btn.svg')no-repeat center / 100%;
+    background:url('assets/svg/play-btn.svg')no-repeat center / 100%;
     cursor: pointer;
     
 }
@@ -104,12 +104,12 @@ a:hover {
     width: 20px;
     height: 20px;
     margin-right: 20px;
-    background: url('/assets/svg/play.svg') no-repeat center / 100%;
+    background: url('assets/svg/play.svg') no-repeat center / 100%;
     cursor: pointer;
 }
 
 .play__icon_pause {
-    background: url('/assets/svg/pause.svg') no-repeat center / 100%;
+    background: url('assets/svg/pause.svg') no-repeat center / 100%;
 }
 
 .volume__icon {
@@ -117,12 +117,12 @@ a:hover {
     height: 25px;
     margin-right: 20px;
     margin-left: 20px;
-    background: url('/assets/svg/volume.svg') no-repeat center / 100%;
+    background: url('assets/svg/volume.svg') no-repeat center / 100%;
     cursor: pointer;
 }
 
 .volume__icon_muted {
-    background: url('/assets/svg/mute.svg') no-repeat center / 100%
+    background: url('assets/svg/mute.svg') no-repeat center / 100%
 }
 
 .progress {
